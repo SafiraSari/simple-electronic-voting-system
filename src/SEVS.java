@@ -25,7 +25,6 @@ public class SEVS {
 		System.out.println("Please enter a String collection of electoral candidates below:");
 		// The user's input is stored in a string array named "Candidate". Each element is separated by the symbol ";".
 		String [] Candidate = input.nextLine().split(";");
-		// TO BE REMVOED     11, jaNE DoE;   12,JohN Doe  ; 10,TanGO   ZULu;   15,sierra romeo
 		
 		// Initializing variables outside of the switch statement for easier access.
 		String [][] Name_ID = new String [Candidate.length][2];	// 2D string array containing the candidates' ID & name.
