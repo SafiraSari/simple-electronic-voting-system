@@ -1,13 +1,12 @@
-// Assignment 3 
-// Written by: Safira Sari (40249017)
-// For COMP 248 Section T – Fall 2022
+// Written by: Safira Sari
+// Fall 2022
 // --------------------------------------------------------
 
-// Question 2 – Simple Electronic Voting System (SEVS)
+// Simple Electronic Voting System (SEVS)
 
 import java.util.Scanner;
 
-public class A3_Q2 {
+public class SEVS {
 
 	public static void main(String[] args) {
 		
